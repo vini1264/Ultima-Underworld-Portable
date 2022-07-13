@@ -18,7 +18,8 @@ for both games.
 
 # Installation
 
-The package was made for the GOG version of both games, you can also use
+The package was made for the [GOG
+version](https://www.gog.com/game/ultima_underworld_1_2) of both games, you can also use
 files from the CD-ROM release but you will need to extract them manually
 inside "data/game".
 
