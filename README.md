@@ -1,6 +1,3 @@
-# Ultima-Underworld-Portable
-Portable launcher for Ultima Underworld 1 (1992) and Ultima Underworld 2 (1993) containing optional enhancement mods.
-
 # What is Ultima Underworld Portable?
 Ultima Underworld Portable is a package made for the [GOG
 version](https://www.gog.com/game/ultima_underworld_1_2) of Ultima Underworld 1 and 2, it includes an easy
