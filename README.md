@@ -2,8 +2,8 @@
 Portable launcher for Ultima Underworld 1 (1992) and Ultima Underworld 2 (1993) containing optional enhancement mods.
 
 # What is Ultima Underworld Portable?
-Ultima Underworld Portable is a package made for the GOG
-version of Ultima Underworld 1 and 2, it includes an easy
+Ultima Underworld Portable is a package made for the [GOG
+version] (https://www.gog.com/game/ultima_underworld_1_2) of Ultima Underworld 1 and 2, it includes an easy
 to use launcher for both games, an updated version of the
 original DOSbox called "DOSbox Staging", Roland MT-32 support 
 for higher quality music and optional enhancement mods, the
