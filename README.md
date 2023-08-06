@@ -21,19 +21,12 @@ files from the CD-ROM release but you will need to extract them manually
 inside "data/game".
 
 The installation process is very simple, you only need the "game.gog" file
-that's in your GOG installation and put it next to "Extractor.exe", then
+that's in your GOG installation and put it next to "Extractor.bat", then
 you start the extractor and it will automatically configure everything for
 you.
 
-After the game is installed you can launch UWPortable.exe to play the games
+After the game is installed you can launch UWPortable.bat to play the games
 and configure the mods from your liking.
-
-# Compiling launcher batch files
-
-Compiling the launcher .bat files is not necessary, but if you want to have a compiled exe file with an icon you can
-use the Bat To Exe Converter found here:
-
-https://github.com/tokyoneon/B2E
 
 # Credits
 
