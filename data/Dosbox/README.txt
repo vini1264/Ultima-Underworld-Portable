@@ -1,0 +1,21 @@
+This package contains release v0.80.1 of the DOSBox Staging project.
+
+Welcome to DOSBox Staging, fork of the DOSBox project that focuses on ease of use, modern technology and best practices.
+
+DOSBox Staging is an attempt to revitalize DOSBox's development process. It's not a rewrite, but a continuation and improvement on the existing DOSBox codebase while leveraging modern development tools and practices.
+
+You can find detailed instructions on using DOSBox in file: doc/manual.txt
+
+This project is maintained by the DOSBox Staging Team.
+
+Our project homepage:
+https://dosbox-staging.github.io/
+
+You can report bugs and ask questions in our GitHub repository:
+https://github.com/dosbox-staging/dosbox-staging
+
+If you want to chat, you will find fellow users and developers on #dosbox-staging channel on Luxtorpeda project Discord server:
+https://discord.gg/WwAg3Xf
+
+Have fun!
+
